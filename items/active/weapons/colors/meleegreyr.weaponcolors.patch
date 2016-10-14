@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/swaps/-",
+    "value": {
+      "676767": "dca41c",
+      "b1b1b1": "f2ec08",
+      "e9e9e9": "ffffb7"
+    }
+  }
+]
